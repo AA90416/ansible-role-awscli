@@ -1,4 +1,4 @@
 
 - hosts: "{{ variable_host | default('tag_tfplayer_vpninstance') }}"
   gather_facts: True
-  tasks: tasks
+ 
